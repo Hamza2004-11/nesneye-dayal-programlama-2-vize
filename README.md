@@ -1,0 +1,1 @@
+# nesneye-dayal-programlama-2-vize
