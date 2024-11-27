@@ -1,1 +1,1 @@
-# nesneye-dayal-programlama-2-vize
+sinema kayıt sistemi müşteri kayıt salon kayıt film ekleme içinde kayıtlı film olan sistem
